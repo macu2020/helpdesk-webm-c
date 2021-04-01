@@ -3,9 +3,9 @@ _Este projecto es una herramienta que organiza las comunicaciones de los Usuario
 
 ## Comenzando 🚀
 * Nombre del Projecto:* Helpdesk
-* Autor:* Jorge macuri ayra
-* Creado:* 1/04/2021
-* Versión:* 1.01
+* Autor: * Jorge macuri ayra
+* Creado: * 1/04/2021
+* Versión: * 1.01
 ***
 ¡Gracias por su Visita! Si tiene alguna pregunta sobre éste projecto, no dude en mandarme un correo electrónico a **macuri516@gmail.com** o enviarme un mensaje a **992001909**
 
