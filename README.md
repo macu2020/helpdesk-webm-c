@@ -2,8 +2,8 @@
 _Este projecto es una herramienta que organiza las comunicaciones de los Usuario para ayudar en una empresa a responderles de manera más rápida y eficaz. Usar un Helpdesk le permite a su equipo de soporte ofrecerles a sus Usuario la mejor experiencia posible._
 
 ## Comenzando 🚀
-*Nombre del Projecto:* Helpdesk
-*Autor:* Jorge macuri ayra
+* Nombre del Projecto:* Helpdesk
+* Autor:* Jorge macuri ayra
 * Creado:* 1/04/2021
 * Versión:* 1.01
 ***
